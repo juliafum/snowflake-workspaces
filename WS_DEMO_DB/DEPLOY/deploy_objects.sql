@@ -3,6 +3,7 @@ execute immediate from '../EX/create_LINEITEM_EX.sql';
 execute immediate from '../EX/create_ORDERS_EX.sql';
 execute immediate from '../EX/create_PART_EX.sql';
 execute immediate from '../EX/create_NATION_EX.sql';
+execute immediate from '../EX/create_REGION_EX.sql';
 
 execute immediate from '../STG/create_CUSTOMER_STG.sql';
 execute immediate from '../STG/create_LINEITEM_STG.sql';
